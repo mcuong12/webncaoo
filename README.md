@@ -42,12 +42,11 @@ Dự án sử dụng các công nghệ sau:
 ![Image](https://github.com/user-attachments/assets/735a23d3-0f33-4871-8b31-7cba7ee89804)
 
 ##Một số hình ảnh giao diện chính
-- ** Trang chủ hiển thị:**
+ ** Trang chủ hiển thị:**
 ![Image](https://github.com/user-attachments/assets/9f37d5df-ace5-4b01-922e-14c1b2cd7e33)
-- ** Đăng kí/Đăng nhập**
-- ![Image](https://github.com/user-attachments/assets/27782b7c-5835-4cea-a44e-47c0f27da68e)
+ ** Đăng kí/Đăng nhập**
+ ![Image](https://github.com/user-attachments/assets/27782b7c-5835-4cea-a44e-47c0f27da68e)
 
-##Hướng dẫn đăng kí
 ## 🚀 Hướng dẫn cài đặt
 
 ```bash
