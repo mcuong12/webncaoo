@@ -1,66 +1,70 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+# 🛍️ Website Bán Hàng Thời Trang sử dụng Laravel Framework 10
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## 🔗 Link Repo (Public)
 
-## About Laravel
+[https://github.com/mcuong12/webncaoo](https://github.com/mcuong12/webncaoo)
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+---
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## 👤 Thông tin sinh viên
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+- **Họ và tên:** Nguyễn Mạnh Cường  
+- **Mã sinh viên:** 23010271
+- **Lớp:** K17-CNTT3  
+- **Môn học:** Thiết kế Web nâng cao (TH3) 
+---
 
-## Learning Laravel
+## 📌 Nội dung yêu cầu chính của bài tập giữa kỳ
+## 📝 Giới thiệu dự án
+Website Bán Hàng Thời Trang là một ứng dụng web được xây dựng bằng Laravel Framework 10, nhằm mục đích mô phỏng một hệ thống bán hàng trực tuyến hiện đại. Ứng dụng hỗ trợ người dùng có thể đăng ký tài khoản, đăng nhập, duyệt sản phẩm, thêm vào giỏ hàng, thanh toán đơn hàng và theo dõi lịch sử mua sắm. Đồng thời, quản trị viên có thể quản lý toàn bộ hệ thống như sản phẩm, danh mục, người dùng và đơn hàng.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Dự án áp dụng kiến trúc MVC (Model - View - Controller), sử dụng Laravel Breeze cho chức năng xác thực, và tích hợp đầy đủ các tính năng bảo mật như CSRF, XSS, xác thực, phân quyền, và kiểm tra đầu vào (validation). Toàn bộ dữ liệu được lưu trữ và thao tác thông qua MySQL sử dụng Eloquent ORM, đồng thời hỗ trợ kết nối với cơ sở dữ liệu trên nền tảng cloud như Aiven hoặc Railway.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+Website có giao diện thân thiện với người dùng, được thiết kế bằng Blade Template kết hợp Tailwind CSS/Bootstrap, đảm bảo trải nghiệm người dùng mượt mà và dễ sử dụng trên cả máy tính và thiết bị di động.
+### 1. Sử dụng framework Laravel xây dựng ứng dụng theo yêu cầu
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+- Website sử dụng **Laravel 10**, phát triển theo mô hình MVC.
+- Dùng **Laravel Breeze** để xác thực đăng ký/đăng nhập.
+- Giao diện được thiết kế bằng Blade và Bootstrap/Tailwind.
 
-## Laravel Sponsors
+---
+## 🛠️ Công Nghệ sử dụng
+Dự án sử dụng các công nghệ sau:
+- **Laravel Framework**
+- **PHP 8.x**
+- **MySQL - PhpAdmin**
+- **DataTables với jQuery**
+- **HTML, CSS, JavaScript**
+## 📍 Sơ đồ hệ thống
+### Biểu đồ usecase
+![Image](https://github.com/user-attachments/assets/0f6aa534-10d8-4fde-b222-6673fe0ebcbb)
+### Biểu đồ quan hệ giữa các bảng trong cơ sở dữ liệu
+![Image](https://github.com/user-attachments/assets/735a23d3-0f33-4871-8b31-7cba7ee89804)
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+##Một số hình ảnh giao diện chính
+- ** Trang chủ hiển thị:**
+![Image](https://github.com/user-attachments/assets/9f37d5df-ace5-4b01-922e-14c1b2cd7e33)
+- ** Đăng kí/Đăng nhập**
+- ![Image](https://github.com/user-attachments/assets/27782b7c-5835-4cea-a44e-47c0f27da68e)
 
-### Premium Partners
+##Hướng dẫn đăng kí
+## 🚀 Hướng dẫn cài đặt
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[Many](https://www.many.co.uk)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- **[Curotec](https://www.curotec.com/services/technologies/laravel/)**
-- **[OP.GG](https://op.gg)**
-- **[WebReinvent](https://webreinvent.com/?utm_source=laravel&utm_medium=github&utm_campaign=patreon-sponsors)**
-- **[Lendio](https://lendio.com)**
+```bash
+git clone https://github.com/your-username/library-management.git
+cd library-management
+composer install
+cp .env.example .env
+php artisan key:generate
 
-## Contributing
+# Cấu hình DB trong file .env
+# DB_CONNECTION=mysql
+# DB_HOST=xxx
+# DB_PORT=3306
+# DB_DATABASE=your_db
+# DB_USERNAME=your_user
+# DB_PASSWORD=your_pass
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
-
-## Code of Conduct
-
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+php artisan migrate
+npm install && npm run dev
+php artisan serve
