@@ -20,7 +20,7 @@ Website Bán Hàng Thời Trang là một ứng dụng web được xây dựng 
 
 Dự án áp dụng kiến trúc MVC (Model - View - Controller), sử dụng Laravel Breeze cho chức năng xác thực, và tích hợp đầy đủ các tính năng bảo mật như CSRF, XSS, xác thực, phân quyền, và kiểm tra đầu vào (validation). Toàn bộ dữ liệu được lưu trữ và thao tác thông qua MySQL sử dụng Eloquent ORM, đồng thời hỗ trợ kết nối với cơ sở dữ liệu trên nền tảng cloud như Aiven hoặc Railway.
 
-Website có giao diện thân thiện với người dùng, được thiết kế bằng Blade Template kết hợp Tailwind CSS/Bootstrap, đảm bảo trải nghiệm người dùng mượt mà và dễ sử dụng trên cả máy tính và thiết bị di động.
+Website có giao diện thân thiện với người dùng, được thiết kế bằng Blade Template kết hợp Tailwind CSS/Bootstrap, đảm bảo trải nghiệm người dùng mượt mà và dễ sử dụng 
 ### 1. Sử dụng framework Laravel xây dựng ứng dụng theo yêu cầu
 
 - Website sử dụng **Laravel 10**, phát triển theo mô hình MVC.
