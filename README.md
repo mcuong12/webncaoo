@@ -43,10 +43,26 @@ Dự án sử dụng các công nghệ sau:
 ## Một số hình ảnh giao diện chính
 - **Giao diện đăng nhập**
 ![Image](https://github.com/user-attachments/assets/9f37d5df-ace5-4b01-922e-14c1b2cd7e33)
+
 - **Đăng nhập/Đăng kí**
  ![Log](https://github.com/user-attachments/assets/27782b7c-5835-4cea-a44e-47c0f27da68e)
+
 - **Giao diện admin**
   ![admin](https://github.com/user-attachments/assets/00f70d1f-43d2-4538-b481-9024e3f68ebe)
+
+## 🔐 Bảo mật
+- **Sử dụng @CSRF Token:**
+  
+![Image](https://github.com/user-attachments/assets/d812eb19-9a5e-4e22-a345-d47f66cdd315)
+- **Chống XSS hiển thị dữ liệu ra giao diện.:**
+  
+ 
+- **Session & Cookies:**
+  
+
+- **SQL Injection Prevention:**
+  
+  
 ## 🚀 Hướng dẫn cài đặt
 
 ```bash
