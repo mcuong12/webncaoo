@@ -35,7 +35,7 @@ Dự án sử dụng các công nghệ sau:
 - **DataTables với jQuery**
 - **HTML, CSS, JavaScript**
 ## 📍 Sơ đồ hệ thống
-### Biểu đồ usecase
+### Biểu đồ usecase tổng quát ( người dùng và quản trị)
 ![Image](https://github.com/user-attachments/assets/0f6aa534-10d8-4fde-b222-6673fe0ebcbb)
 ### Biểu đồ quan hệ giữa các bảng trong cơ sở dữ liệu
 ![Image](https://github.com/user-attachments/assets/735a23d3-0f33-4871-8b31-7cba7ee89804)
@@ -53,16 +53,20 @@ Dự án sử dụng các công nghệ sau:
 ## 🔐 Bảo mật
 - **Sử dụng @CSRF Token:**
   
-![Image](https://github.com/user-attachments/assets/d812eb19-9a5e-4e22-a345-d47f66cdd315)
+![Image](https://github.com/user-attachments/assets/b77d7945-f8ee-43a2-89ac-472634c8ef30)
+
 - **Chống XSS hiển thị dữ liệu ra giao diện.:**
+
+![Image](https://github.com/user-attachments/assets/620161b2-e72e-44b0-9aa0-e6c2cabae0da)
   
- 
 - **Session & Cookies:**
+  ![Image](https://github.com/user-attachments/assets/b94bf396-797e-4f5a-becb-914ef26dad32)
+
+- **Truy vấn an toàn với Eloquent ORM (chống SQL Injection):**
+
+  ![Image](https://github.com/user-attachments/assets/8a748b6e-d188-4556-acdc-c260abdff447)
   
 
-- **SQL Injection Prevention:**
-  
-  
 ## 🚀 Hướng dẫn cài đặt
 
 ```bash
