@@ -39,16 +39,8 @@ Dự án sử dụng các công nghệ sau:
 ![Image](https://github.com/user-attachments/assets/0f6aa534-10d8-4fde-b222-6673fe0ebcbb)
 ### Biểu đồ quan hệ giữa các bảng trong cơ sở dữ liệu
 ![Image](https://github.com/user-attachments/assets/735a23d3-0f33-4871-8b31-7cba7ee89804)
-
-## Một số hình ảnh giao diện chính
-- **Giao diện đăng nhập**
-![Image](https://github.com/user-attachments/assets/9f37d5df-ace5-4b01-922e-14c1b2cd7e33)
-
-- **Đăng nhập/Đăng kí**
- ![Log](https://github.com/user-attachments/assets/27782b7c-5835-4cea-a44e-47c0f27da68e)
-
-- **Giao diện admin**
-  ![admin](https://github.com/user-attachments/assets/00f70d1f-43d2-4538-b481-9024e3f68ebe)
+### Class diagram
+![Image](https://github.com/user-attachments/assets/64f242ae-4008-404a-a3f9-12e583bf1cb7)
 
 ## 🔐 Bảo mật
 - **Sử dụng @CSRF Token:**
@@ -67,7 +59,38 @@ Dự án sử dụng các công nghệ sau:
 - **Truy vấn an toàn với Eloquent ORM (chống SQL Injection):**
 
   ![Image](https://github.com/user-attachments/assets/8a748b6e-d188-4556-acdc-c260abdff447)
-  
+## Một số hình ảnh giao diện chính
+- **Giao diện đăng nhập**
+![Image](https://github.com/user-attachments/assets/9f37d5df-ace5-4b01-922e-14c1b2cd7e33)
+
+- **Đăng nhập/Đăng kí**
+ ![Log](https://github.com/user-attachments/assets/27782b7c-5835-4cea-a44e-47c0f27da68e)
+
+- **Giao diện admin**
+  ![admin](https://github.com/user-attachments/assets/00f70d1f-43d2-4538-b481-9024e3f68ebe)
+
+- **Giao diện chỉnh sửa thông tin cho user**
+  ![image](https://github.com/user-attachments/assets/88265887-677c-42be-b51a-a63f74f46e7c)
+
+- **Giỏ hàng**
+  ![image](https://github.com/user-attachments/assets/4008a6d8-ee14-4116-9d2f-40cfd67671bb)
+
+## Một vài đối tượng
+- **Thêm sản phẩm**
+![Image](https://github.com/user-attachments/assets/833cf533-1532-4fa5-ba82-a295b9bd396c)
+
+- **Thêm thương hiệu**
+ ![image](https://github.com/user-attachments/assets/a0197e83-c1a8-4495-8bcd-bb069981759a)
+
+- **Phí giao hàng**
+![image](https://github.com/user-attachments/assets/c0fcb748-b084-4698-add9-f9261e87e3dc)
+
+- **Đơn hàng**
+  ![image](https://github.com/user-attachments/assets/d0ffc4fb-650c-4e71-babd-2734dccddcd7)
+
+- **Banner**
+  ![image](https://github.com/user-attachments/assets/d14c0db1-6440-43b5-a508-5612c7b29017)
+
 
 ## 🚀 Hướng dẫn cài đặt
 
