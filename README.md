@@ -14,7 +14,6 @@
 - **Môn học:** Thiết kế Web nâng cao (TH3) 
 ---
 
-## 📌 Nội dung yêu cầu chính của bài tập giữa kỳ
 ## 📝 Giới thiệu dự án
 Website Bán Hàng Thời Trang là một ứng dụng web được xây dựng bằng Laravel Framework 10, nhằm mục đích mô phỏng một hệ thống bán hàng trực tuyến hiện đại. Ứng dụng hỗ trợ người dùng có thể đăng ký tài khoản, đăng nhập, duyệt sản phẩm, thêm vào giỏ hàng, thanh toán đơn hàng và theo dõi lịch sử mua sắm. Đồng thời, quản trị viên có thể quản lý toàn bộ hệ thống như sản phẩm, danh mục, người dùng và đơn hàng.
 
