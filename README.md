@@ -72,7 +72,7 @@ Dự án sử dụng các công nghệ sau:
 ## 🚀 Hướng dẫn cài đặt
 
 ```bash
-git clone https://github.com/your-username/library-management.git
+git clone https://github.com/mcuong12/webncaoo.git
 cd library-management
 composer install
 cp .env.example .env
