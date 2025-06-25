@@ -44,8 +44,9 @@ Dự án sử dụng các công nghệ sau:
 - **Giao diện đăng nhập**
 ![Image](https://github.com/user-attachments/assets/9f37d5df-ace5-4b01-922e-14c1b2cd7e33)
 - **Đăng nhập/Đăng kí**
- ![Image](https://github.com/user-attachments/assets/27782b7c-5835-4cea-a44e-47c0f27da68e)
-
+ ![Log](https://github.com/user-attachments/assets/27782b7c-5835-4cea-a44e-47c0f27da68e)
+- **Giao diện admin**
+  ![admin](https://github.com/user-attachments/assets/00f70d1f-43d2-4538-b481-9024e3f68ebe)
 ## 🚀 Hướng dẫn cài đặt
 
 ```bash
