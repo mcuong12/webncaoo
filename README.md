@@ -60,7 +60,9 @@ Dự án sử dụng các công nghệ sau:
 ![Image](https://github.com/user-attachments/assets/620161b2-e72e-44b0-9aa0-e6c2cabae0da)
   
 - **Session & Cookies:**
-  ![Image](https://github.com/user-attachments/assets/b94bf396-797e-4f5a-becb-914ef26dad32)
+  
+  
+![Image](https://github.com/user-attachments/assets/577d2ad9-8209-4934-be43-a416deeb5ffe)
 
 - **Truy vấn an toàn với Eloquent ORM (chống SQL Injection):**
 
