@@ -11,7 +11,6 @@
 - **Họ và tên:** Nguyễn Mạnh Cường  
 - **Mã sinh viên:** 23010271
 - **Lớp:** K17-CNTT3  
-- **Môn học:** Thiết kế Web nâng cao (TH3) 
 ---
 
 ## 📝 Giới thiệu dự án
